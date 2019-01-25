@@ -1,5 +1,8 @@
 package UF;
 
+import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
+
 public class WeightedQuickUnionUF {
     private int[] id;  // id[i] = parent of i
     private int[] sz;  // size[i] = number of sites in subtree rooted at i
