@@ -36,6 +36,9 @@ public class FixedCapacityStackOfStrings {
     }
 
     public String pop() {
-        return a[--N];
+        String item = a[--N];
+        // to avoid  loitering
+        a[N]=null;
+        return item;
     }
 }
