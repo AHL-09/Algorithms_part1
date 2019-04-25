@@ -1,11 +1,9 @@
 package stacks_and_queues;
 
 
-
 public class ResizingArrayStackOfStrings<Item> {
     String[] s;
-    int N; //increment in push
-    //decrement in pop
+    int N; //
 
     public ResizingArrayStackOfStrings() {
         s = new String[1];
@@ -34,10 +32,6 @@ public class ResizingArrayStackOfStrings<Item> {
         }
         s = copy;
     }
-
-
-
-
 
 
 }
