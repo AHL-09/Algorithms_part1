@@ -4,22 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/sorting/SortCompare.java" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ccc8625-09bb-4520-a3af-b0ec0c26afcd" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/sorting/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/SortCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/tiny.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/words3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks_and_queues/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks_and_queues/LinkedQueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks_and_queues/LinkedStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks_and_queues/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks_and_queues/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms part1/stacks_and_queues/ResizingArrayStackOfStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms part1/stacks_and_queues/ResizingArrayStackOfStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacks_and_queues/ResizingArrayStackOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/ResizingArrayStackOfStrings.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ccc8625-09bb-4520-a3af-b0ec0c26afcd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,14 +314,14 @@
       <workItem from="1555894064073" duration="1581000" />
       <workItem from="1555895974225" duration="1267000" />
       <workItem from="1555897347927" duration="9223000" />
-      <workItem from="1556107676463" duration="16582000" />
+      <workItem from="1556107676463" duration="17169000" />
     </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1548340143529</created>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1556180378726</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1548340143530</updated>
+      <updated>1556180378726</updated>
     </task>
     <task id="LOCAL-00002" summary="initial commit">
       <created>1548400337975</created>
@@ -352,13 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548400666207</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37462000" />
+    <option name="totallyTimeSpent" value="38049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" weight="0.33751962" />
